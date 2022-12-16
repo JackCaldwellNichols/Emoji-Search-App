@@ -1,0 +1,16 @@
+.search-bar {
+    border-bottom: 1px solid lightgray;
+}
+
+.search-bar > div {
+    margin: 0 10px 10px 10px;
+}
+
+input {
+    border-bottom: 4px;
+    border: 1px solid lightgray;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 10px 8px;
+    width: 100%;
+}
